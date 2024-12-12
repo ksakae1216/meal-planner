@@ -17,6 +17,8 @@
     "@nx/eslint": "19.8.4",
     "@nx/eslint-plugin": "19.8.4",
     "@nx/jest": "19.8.4",
+    "@nrwl/cli": "^15.9.3",
+    "@nrwl/react-native": "^19.8.4",
     "@nx/js": "20.2.2",
     "@nx/playwright": "19.8.4",
     "@nx/react-native": "19.8.4",
